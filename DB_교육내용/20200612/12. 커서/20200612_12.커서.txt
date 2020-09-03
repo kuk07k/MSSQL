@@ -1,0 +1,7 @@
+[ 12. 커서 ]
+반복문 for 와 같은 개념
+DECLARE = 커서 선언
+OPEN = 커서 열기
+FETCH = 커서에서 데이터 가져오기
+CLOSE = 커서 닫기
+DEALLOCATE = 커서의 해제
